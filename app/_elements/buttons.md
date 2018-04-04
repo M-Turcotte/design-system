@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Buttons
+title: My Buttons
 category: elements
 tags:
     - buttons
     - action
+    - command
 status: ready
 
 ---
